@@ -122,12 +122,6 @@ ul {
   padding: 0 0.5vw;
 }
 
-.sub-container {
-  /* padding: 1vw 2vw; */
-  /* border-radius: 3px;
-  margin-bottom: 2vw; */
-}
-
 .image-back {
   background-image: url("./resume_portrait_square_3.jpg");
   background-color: #91969a;
@@ -175,40 +169,7 @@ ul {
   color: #eee;
 }
 
-.portrait {
-  /* width: 10vw; */
-  /* display: block;
-  margin: 2vh auto; */
-  /* border-radius: 100%; */
-}
-
-.skills-container {
-  /* display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start; */
-}
-
 .skills-list {
   max-width: 28%;
   list-style: none;
 }
-
-/* @media (prefers-color-scheme: light) {
-  body {
-    background-color: var(--bg0-light);
-    color: var(--fg-light);
-  }
-  a {
-    color: var(--blue-light);
-  }
-  .side-content {
-    background-color: var(--white);
-  }
-  .main-content {
-    background-color: var(--white);
-  }
-  .sub-container {
-    background-color: transparent;
-  }
-} */
